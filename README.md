@@ -15,6 +15,17 @@
     <img style="float: middle; padding: 10px 10px 10px 10px;" width="50" height="50" src="https://user-images.githubusercontent.com/44069155/191557209-6219acb8-a766-448c-9bd6-284d22b1e398.png" /></a>
 </h3>
 
+## Attribution
+
+This repository is based on [bigcode-project/bigcode-evaluation-harness](https://github.com/bigcode-project/bigcode-evaluation-harness) - "A framework for the evaluation of autoregressive code generation language models."
+
+**Important:** This repository is intentionally disconnected from the upstream to prevent accidental pull requests. Please submit contributions to the [original project](https://github.com/bigcode-project/bigcode-evaluation-harness).
+
+### Original Project
+- **Upstream:** https://github.com/bigcode-project/bigcode-evaluation-harness  
+- **License:** Apache 2.0 License
+- **Documentation:** See links in the original repository
+
 ## Features
 
 This is a framework for the evaluation of code generation models. This work is inspired from [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) for evaluating language models in general. We welcome contributions to fix issues, enhance features and add new benchmarks. You can find contribution guides in [`docs/guide.md`](https://github.com/bigcode-project/bigcode-evaluation-harness/blob/main/docs/guide.md) and [`CONTRIBUTING.md`](https://github.com/bigcode-project/bigcode-evaluation-harness/blob/main/CONTRIBUTING.md) and more documentation in [`docs/README.md`](https://github.com/bigcode-project/bigcode-evaluation-harness/blob/main/docs/README.md). 
